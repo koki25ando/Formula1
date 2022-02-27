@@ -1,0 +1,13 @@
+Package: Formula1
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.0.8
+Authors@R: person("Koki", "Ando", email = "koki.25.ando@gmail.com", role = c("aut", "cre"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
